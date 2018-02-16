@@ -29,3 +29,15 @@
 - ![#9eb4c0](https://placehold.it/15/9eb4c0/000000?text=+) `#9eb4c0`
 - ![#b7c9d1](https://placehold.it/15/b7c9d1/000000?text=+) `#b7c9d1`
 - ![#c9d9e0](https://placehold.it/15/c9d9e0/000000?text=+) `#c9d9e0`
+
+## Greens
+
+- ![#51D197](https://placehold.it/15/51D197/000000?text=+) `#51D197`
+- ![#259461](https://placehold.it/15/259461/000000?text=+) `#259461`
+
+## Reds
+
+- ![#EF6B6B](https://placehold.it/15/EF6B6B/000000?text=+) `#EF6B6B`
+- ![#bf1d1d](https://placehold.it/15/bf1d1d/000000?text=+) `#bf1d1d`
+
+
