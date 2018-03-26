@@ -41,4 +41,4 @@
 - ![#EF6B6B](https://placehold.it/15/EF6B6B/000000?text=+) `#EF6B6B`
 - ![#EF8484](https://placehold.it/15/EF8484/000000?text=+) `#EF8484`
 - ![#FCB4B4](https://placehold.it/15/FCB4B4/000000?text=+) `#FCB4B4`
-- ![#FFCECE](https://placehold.it/15/FCB4B4/000000?text=+) `#FFCECE`
+- ![#FEDEDE](https://placehold.it/15/FEDEDE/000000?text=+) `#FEDEDE`
