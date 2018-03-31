@@ -29,6 +29,7 @@
 - ![#9eb4c0](https://placehold.it/15/9eb4c0/000000?text=+) `#9eb4c0`
 - ![#b7c9d1](https://placehold.it/15/b7c9d1/000000?text=+) `#b7c9d1`
 - ![#c9d9e0](https://placehold.it/15/c9d9e0/000000?text=+) `#c9d9e0`
+- ![#DBEEF7](https://placehold.it/15/DBEEF7/000000?text=+) `#dbeef7`
 
 ## Greens
 
