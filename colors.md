@@ -41,6 +41,7 @@
 ## Reds
 
 - ![#bf1d1d](https://placehold.it/15/bf1d1d/000000?text=+) `#BF1D1D`
+- ![#d24242](https://placehold.it/15/d24242/000000?text=+) `#d24242`
 - ![#EF6B6B](https://placehold.it/15/EF6B6B/000000?text=+) `#EF6B6B`
 - ![#FCB4B4](https://placehold.it/15/FCB4B4/000000?text=+) `#FCB4B4`
 - ![#FEDEDE](https://placehold.it/15/FEDEDE/000000?text=+) `#FEDEDE`
