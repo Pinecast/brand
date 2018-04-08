@@ -35,6 +35,7 @@
 
 - ![#51D197](https://placehold.it/15/51D197/000000?text=+) `#51D197`
 - ![#259461](https://placehold.it/15/259461/000000?text=+) `#259461`
+- ![#146640](https://placehold.it/15/146640/000000?text=+) `#146640`
 
 ## Reds
 
