@@ -1,6 +1,6 @@
 # Pinecast Branding
 
-WIP canonical source for brand assets
+- [Media Kit](https://github.com/Pinecast/brand/blob/master/media_kit.md)
 
 ## Asset Guidelines
 
